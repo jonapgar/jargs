@@ -1,7 +1,7 @@
 //test.js
 const {
-  n:name = 'jargs',
-  v:version = '1.0'
-} = require('./jargs.js')
+  n:name = 'sixargs',
+  v:version = '1.0',
+} = require('./sixargs')
 
 console.log(`My name is ${name} and my version is ${version}`)
