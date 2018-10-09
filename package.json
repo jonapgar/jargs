@@ -1,0 +1,24 @@
+{
+  "name": "sixargs",
+  "version": "1.0.0",
+  "description": "Ultra-minimalist nodejs command-line arg parser taking advantage of ES6 destructuring for mapping and defaults.",
+  "main": "sixargs.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonapgar/sixargs.git"
+  },
+  "keywords": [
+    "command-line",
+    "parse",
+    "arguments"
+  ],
+  "author": "Jon Apgar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonapgar/sixargs/issues"
+  },
+  "homepage": "https://github.com/jonapgar/sixargs#readme"
+}
